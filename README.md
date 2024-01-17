@@ -11,4 +11,4 @@ Learing React
    check version using node --version and npm --version
 3. VS Code -IDE
 4. install google chrome extension "React Developer Tools"
-5.  Some VS code Extensions
+5.  Some VS code Extensions: Thunder clinet: Alternative of Postman, ES7+ React/Redux/React-Native snippets, Live Server: to visulaize page, Prettier - Code formatter, 
